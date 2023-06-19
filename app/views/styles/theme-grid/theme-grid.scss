@@ -37,3 +37,15 @@
 @import 'form-grid';
 @import '../component/form_header';
 @import '../component/form_footer';
+
+.pages.or #form-title{
+    font-family: "UNFPA-Bold" !important;
+}
+
+h2, h3, h4{
+    font-family: "UNFPA-Light" !important;
+}
+
+.question .question-label, .question , .question-label{
+    font-family: "UNFPA-Regular" !important;
+}
